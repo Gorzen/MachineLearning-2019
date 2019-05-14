@@ -1,0 +1,4 @@
+LASSO regression is NOT robust toward outliers compared to linear regression.
+High degree feature expansion leads to overfitting.
+A model that has overfit to the training data is robust towards outliers.
+In the LASSO regression formula, if we set lambda to a very large value, our optimization would result in weights being 0.
